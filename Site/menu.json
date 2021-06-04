@@ -1,0 +1,26 @@
+[
+  {
+    "addr": "index.php",
+    "name": "Главная страница",
+    "title": "Главная страница",
+    "hidden": 1
+  },
+  {
+    "addr": "registration.php",
+    "name": "Регистрация",
+    "title": "Регистрация",
+    "hidden": 1
+  },
+  {
+    "addr": "auntification.php",
+    "name": "Вход",
+    "title": "Вход",
+    "hidden": 1
+  },
+  {
+    "addr": "third.php",
+    "name":  "Закрытая страница",
+    "title": "Закрытая страница",
+    "hidden": 0
+  }
+]
